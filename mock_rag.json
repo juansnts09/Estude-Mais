@@ -1,0 +1,56 @@
+[
+  {
+    "titulo": "Python",
+    "conteudo": "Python é uma linguagem de programação conhecida por sua sintaxe simples e legível. Ela pode ser usada em automação, desenvolvimento de sistemas, análise de dados e inteligência artificial.",
+    "palavras_chave": [
+      "linguagem",
+      "programação",
+      "inteligência artificial",
+      "código"
+    ]
+  },
+  {
+    "titulo": "Variáveis em Python",
+    "conteudo": "Variáveis são nomes usados para armazenar valores na memória durante a execução do programa. Exemplo: nome = 'Ana' e idade = 17. O sinal de igual atribui um valor à variável.",
+    "palavras_chave": [
+      "variável",
+      "armazenar",
+      "valor",
+      "memória",
+      "atribuição"
+    ]
+  },
+  {
+    "titulo": "Estruturas de repetição",
+    "conteudo": "Estruturas de repetição permitem executar um bloco de código várias vezes. Em Python, as principais são for e while. O for é usado normalmente para percorrer sequências; o while repete enquanto uma condição for verdadeira.",
+    "palavras_chave": [
+      "repetição",
+      "laço",
+      "loop",
+      "for",
+      "while"
+    ]
+  },
+  {
+    "titulo": "Listas em Python",
+    "conteudo": "Listas armazenam vários elementos em uma única variável. São criadas com colchetes. Exemplo: frutas = ['maçã', 'banana', 'uva']. Os elementos podem ser acessados por índices, começando em zero.",
+    "palavras_chave": [
+      "lista",
+      "elementos",
+      "colchetes",
+      "índice",
+      "vetor"
+    ]
+  },
+  {
+    "titulo": "Funções em Python",
+    "conteudo": "Funções são blocos de código reutilizáveis que realizam uma tarefa. Em Python, são definidas com a palavra-chave def. Podem receber parâmetros e retornar um resultado com return.",
+    "palavras_chave": [
+      "função",
+      "def",
+      "parâmetro",
+      "return",
+      "reutilização"
+    ]
+  }
+]
